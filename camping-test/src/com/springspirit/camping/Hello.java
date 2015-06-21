@@ -6,5 +6,7 @@ public class Hello {
 		System.out.println("Hello?");
 		
 		System.out.println("Wordl?");
+		
+		System.out.println("fixes #5");
 	}
 }
